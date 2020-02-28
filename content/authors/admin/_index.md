@@ -13,9 +13,9 @@ superuser: true
 role: Level Designer
 
 # Organizations/Affiliations
-#  organizations:
-#  - name: Breda University of Applied Scienes
-#    url: ""
+organizations:
+- name: Breda University of Applied Scienes
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Back to homepage
