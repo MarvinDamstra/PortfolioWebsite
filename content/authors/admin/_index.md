@@ -42,12 +42,13 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MarvinDamstra
-- icon: github
-  icon_pack: fab
-  link: https://github.com/MarvinDamstra
 - icon: itch-io
   icon_pack: fab
   link: https://marvindamstra.itch.io/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/MarvinDamstra
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
