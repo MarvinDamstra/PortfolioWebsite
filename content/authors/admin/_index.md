@@ -25,11 +25,11 @@ bio: I am a Level Designer in training, currently looking for an internship posi
 # - List Item 2
 # - List Item 3
 
-# education:
-#  courses:
-#  - course: 3rd Year's Bachelors Student
-#    institution: Breda University of Applied Sciences
-#    year: 2017-Now
+education:
+  courses:
+  - course: 3rd Year's Bachelors Student
+    institution: Breda University of Applied Sciences
+    year: 2017-Now
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
