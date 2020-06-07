@@ -60,15 +60,15 @@ My main role on the project was that of Level Designer. During the second half o
 
   {{< figure src="featured.png" title="" lightbox="true" >}}
 
-### Lead and Production
+### Design Lead and Production
 
 *Coming Soon*
 
 ## Details
 
-| Project Information | SKYE                       |
-| --------------------| -------------------------- |
-| Duration            | September 2019 - July 2020 |
-| Team Size           | 18 Developers              |
-| Engine              | Unreal Engine 4            |
-| Platform            | Windows, Steam             |
+| Project Information            | SKYE              |
+| -------------------------------| ----------------- |
+| Duration                       | 36 weeks          |
+| Team Size                      | 18 Developers     |
+| Engine                         | Unreal Engine 4   |
+| Platform                       | Microsoft Windows |

@@ -60,7 +60,7 @@ As the Level Designer I was tasked with building a whitebox for Unreal Tournamen
 
 | Project Information            | Unreal Tournamen: Pantheon |
 | ------------------------------ | -------------------------- |
-| Duration                       | September 2018 - July 2019 |
+| Duration                       | 27 weeks                   |
 | Team Size                      | 12 developers              |
 | Engine                         | Unreal Tournament Editor   |
-| platform                       | Windows, Epic Games Store  |
+| platform                       | Microsoft Windows          |
