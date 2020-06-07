@@ -1,1 +1,133 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marvin Damstra | Level Designer</title><link>https://marvindamstra.com/authors/admin/</link><atom:link href="https://marvindamstra.com/authors/admin/index.xml" rel="self" type="application/rss+xml"/><description>Marvin Damstra | Level Designer</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><image><url>https://marvindamstra.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>Marvin Damstra | Level Designer</title><link>https://marvindamstra.com/authors/admin/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marvin Damstra | Level Designer</title><link>https://marvindamstra.com/authors/admin/</link><atom:link href="https://marvindamstra.com/authors/admin/index.xml" rel="self" type="application/rss+xml"/><description>Marvin Damstra | Level Designer</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate><image><url>https://marvindamstra.com/images/icon_hu63bc1f9712251fe091c276a6a11a0e88_8197_512x512_fill_lanczos_center_2.png</url><title>Marvin Damstra | Level Designer</title><link>https://marvindamstra.com/authors/admin/</link></image><item><title>SKYE</title><link>https://marvindamstra.com/project/skye/</link><pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate><guid>https://marvindamstra.com/project/skye/</guid><description>&lt;!--# Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/-->
+&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>SKYE is being created as an educational project over the course of an academic year. The goal of the project is to go through a different phase of development each term: concepting, pre-production, production and release. We are currently in the release phase of the project, with the release planned for June 19th.&lt;/p>
+&lt;p>The development team consists of 10 designers, 7 artists and a QA engineer. Additional development was outsourced to a team of concept artists and technical developers.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/UushR58b9Vg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="my-responsibilities">My responsibilities&lt;/h2>
+&lt;p>My main role on the project was that of Level Designer. During the second half of the project I also functioned as a Lead Designer and Assistant Producer.&lt;/p>
+&lt;h3 id="level-design">Level Design&lt;/h3>
+&lt;p>&lt;em>Coming Soon&lt;/em>&lt;/p>
+&lt;figure>
+&lt;a data-fancybox="" href="https://marvindamstra.com/project/skye/featured_huf310da03d03308f3e66ea4ef784f83fd_3726893_2000x2000_fit_lanczos_2.png" >
+&lt;img data-src="https://marvindamstra.com/project/skye/featured_huf310da03d03308f3e66ea4ef784f83fd_3726893_2000x2000_fit_lanczos_2.png" class="lazyload" alt="" width="1920" height="1080">
+&lt;/a>
+&lt;/figure>
+&lt;h3 id="design-lead-and-production">Design Lead and Production&lt;/h3>
+&lt;p>&lt;em>Coming Soon&lt;/em>&lt;/p>
+&lt;h2 id="details">Details&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Project Information&lt;/th>
+&lt;th>SKYE&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Duration&lt;/td>
+&lt;td>36 weeks&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Team Size&lt;/td>
+&lt;td>18 Developers&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Engine&lt;/td>
+&lt;td>Unreal Engine 4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Platform&lt;/td>
+&lt;td>Microsoft Windows&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Pantheon</title><link>https://marvindamstra.com/project/pantheon/</link><pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate><guid>https://marvindamstra.com/project/pantheon/</guid><description>&lt;!--# Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/-->
+&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>Pantheon is a multiplayer deathmatch map resulting from a collaboration between me as a level designer and a team of artists that worked on the visuals of the map.&lt;/p>
+&lt;p>The initial whitebox of the map was built as an introduction to Level Design. The visuals were created during a different term, where I functioned as design consultant. During a third and final term, the art was brought into Unreal Tournament Editor and the map was prepared for release.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/98i6guRGlkM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="my-responsibilities">My responsibilities&lt;/h2>
+&lt;p>As the Level Designer I was tasked with building a whitebox for Unreal Tournament. The map needed to be built around a theme: temples. In a second term I was given the opportunity to prepare the map for release.&lt;/p>
+&lt;h3 id="development">Development&lt;/h3>
+&lt;p>&lt;em>Coming Soon&lt;/em>&lt;/p>
+&lt;figure>
+&lt;a data-fancybox="" href="https://marvindamstra.com/project/pantheon/featured_huae93d21772f0d312c62002aff3ea4f85_2022393_2000x2000_fit_lanczos_2.png" >
+&lt;img data-src="https://marvindamstra.com/project/pantheon/featured_huae93d21772f0d312c62002aff3ea4f85_2022393_2000x2000_fit_lanczos_2.png" class="lazyload" alt="" width="1848" height="1040">
+&lt;/a>
+&lt;/figure>
+&lt;h2 id="details">Details&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Project Information&lt;/th>
+&lt;th>Unreal Tournamen: Pantheon&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Duration&lt;/td>
+&lt;td>27 weeks&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Team Size&lt;/td>
+&lt;td>12 developers&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Engine&lt;/td>
+&lt;td>Unreal Tournament Editor&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>platform&lt;/td>
+&lt;td>Microsoft Windows&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Techno Jammers</title><link>https://marvindamstra.com/project/technojammers/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>https://marvindamstra.com/project/technojammers/</guid><description>&lt;!--# Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/-->
+&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>&lt;em>Coming Soon&lt;/em>&lt;/p>
+&lt;figure>
+&lt;a data-fancybox="" href="https://marvindamstra.com/project/technojammers/featured_hude3b44948736929e06255806168820ac_754557_2000x2000_fit_lanczos_2.png" >
+&lt;img data-src="https://marvindamstra.com/project/technojammers/featured_hude3b44948736929e06255806168820ac_754557_2000x2000_fit_lanczos_2.png" class="lazyload" alt="" width="1848" height="1040">
+&lt;/a>
+&lt;/figure>
+&lt;h2 id="my-responsibilities">My responsibilities&lt;/h2>
+&lt;p>&lt;em>Coming Soon&lt;/em>&lt;/p>
+&lt;!-- ### Sub Header
+Subsection.
+-->
+&lt;h2 id="details">Details&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Project Information&lt;/th>
+&lt;th>Title&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Duration&lt;/td>
+&lt;td>1 week&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Team Size&lt;/td>
+&lt;td>3 developers&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Engine&lt;/td>
+&lt;td>Unreal Engine 4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>platform&lt;/td>
+&lt;td>Windows&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Running in the 90s</title><link>https://marvindamstra.com/project/runninginthe90s/</link><pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate><guid>https://marvindamstra.com/project/runninginthe90s/</guid><description>&lt;!--# Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/-->
+&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>&lt;em>Coming Soon&lt;/em>&lt;/p>
+&lt;figure>
+&lt;a data-fancybox="" href="https://marvindamstra.com/project/runninginthe90s/featured_hu28ea2faa0f0d5800adab6713b5341618_19395_2000x2000_fit_lanczos_2.png" >
+&lt;img data-src="https://marvindamstra.com/project/runninginthe90s/featured_hu28ea2faa0f0d5800adab6713b5341618_19395_2000x2000_fit_lanczos_2.png" class="lazyload" alt="" width="1920" height="1080">
+&lt;/a>
+&lt;/figure></description></item></channel></rss>
